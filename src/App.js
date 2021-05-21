@@ -9,15 +9,22 @@ function App() {
      <div className="app_header">
       <img
       className="app_headerImage"
-      height="35"
+      height="40"
        src={logoo}
        alt=""
        />
 
      </div>
  <h1>Hey Jainil</h1>
+
+
      {/*posts*/}
+    
+    
      {}
+
+
+
     </div>
   );
 }
