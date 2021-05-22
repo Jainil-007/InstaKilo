@@ -4,7 +4,6 @@
 
 .app {
   background-color: #fafafa;
-  height: 100vh;
 }
 
 .app_header {
@@ -12,4 +11,9 @@
   padding: 15px;
   border-bottom: 1px solid lightgrey;
   object-fit: contain;
+}
+
+.app_signup {
+  display: flex;
+  flex-direction: column;
 }
