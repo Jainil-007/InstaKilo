@@ -9,3 +9,4 @@ import firebase from npm </br>
 replace the firebase key in the firebase.js file with your's
 
 
+credit/reference: <a href="https://youtu.be/f7T48W0cwXM" >CleverProgrammer</a>
